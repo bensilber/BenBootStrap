@@ -10,4 +10,16 @@ else
     brew update
 fi
 
+brew install m-cli
+brew install zsh-autosuggestions
+
+
 #Add various Casks
+
+brew cask
+brew install google-chrome
+brew install firefox
+brew install snagit
+brew install adobe-creative-cloud
+brew install adobe-photoshop-lightroom
+
