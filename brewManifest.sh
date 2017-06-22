@@ -37,7 +37,7 @@ brew cask install sublime-text
 brew cask install dashlane
 brew cask install boom
 brew cask install royal-tsx
-
+brew cask install microsoft-office
 
 
 brew tap caskroom/fonts
