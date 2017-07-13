@@ -39,6 +39,7 @@ brew cask install boom
 brew cask install royal-tsx
 brew cask install microsoft-office
 brew cask install vlc
+brew cask install pingplotter
 
 
 
