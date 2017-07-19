@@ -12,6 +12,13 @@ fi
 
 brew install m-cli
 brew install zsh-autosuggestions
+brew install tldr
+brew install awscli
+brew install s3cmd
+brew install thefuck
+brew install terraform
+brew install mas
+brew install speedtest-cli
 
 
 #Add various Casks
