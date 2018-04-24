@@ -25,19 +25,7 @@ brew install speedtest-cli
 
 brew tap caskroom/cask
 
- brew cask install google-chrome
- firefox
- snagit
- adobe-creative-cloud
- adobe-photoshop-lightroom
- spotify
- powershell
- slack
- YakYak
- Dialpad
- autodmg
- bartender
- Dropbox
+ brew cask install --force google-chrome firefox snagit adobe-creative-cloud adobe-photoshop-lightroom spotify powershell slack YakYak Dialpad autodmg bartender Dropbox
  flux
  malwarebytes-anti-malware
  sublime-text
