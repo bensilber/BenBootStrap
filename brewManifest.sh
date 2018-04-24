@@ -25,28 +25,28 @@ brew install speedtest-cli
 
 brew tap caskroom/cask
 
-brew cask install google-chrome
-brew cask install firefox
-brew cask install snagit
-brew cask install adobe-creative-cloud
-brew cask install adobe-photoshop-lightroom
-brew cask install spotify
-brew cask install powershell
-brew cask install slack
-brew cask install YakYak
-brew cask install Dialpad
-brew cask install autodmg
-brew cask install bartender
-brew cask install Dropbox
-brew cask install flux
-brew cask install malwarebytes-anti-malware
-brew cask install sublime-text
-brew cask install dashlane
-brew cask install boom
-brew cask install royal-tsx
-brew cask install microsoft-office
-brew cask install vlc
-brew cask install pingplotter
+ brew cask install google-chrome
+ firefox
+ snagit
+ adobe-creative-cloud
+ adobe-photoshop-lightroom
+ spotify
+ powershell
+ slack
+ YakYak
+ Dialpad
+ autodmg
+ bartender
+ Dropbox
+ flux
+ malwarebytes-anti-malware
+ sublime-text
+ dashlane
+ boom
+ royal-tsx
+ microsoft-office
+ vlc
+ pingplotter
 
 
 
